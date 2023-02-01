@@ -1,4 +1,4 @@
-AOSIP_TARGET_PACKAGE := $(PRODUCT_OUT)/AOSiP-$(AOSIP_VERSION).zip
+AOSIP_TARGET_PACKAGE := $(PRODUCT_OUT)/AOSiP-Rev-$(AOSIP_VERSION).zip
 
 .PHONY: kronic bacon
 kronic: otapackage
